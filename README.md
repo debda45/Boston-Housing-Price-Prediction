@@ -1,2 +1,8 @@
 # Boston-Housing-Price-Prediction
-Predicting Boston housing prices using Linear Regression, Polynomial Regression, Gradient Descent, Ridge, Lasso, Elastic Net, and Early Stopping. The project covers preprocessing, model building, regularization, and evaluation for robust regression analysis.
+This project explores predicting Boston housing prices using several regression techniques. The analysis utilizes the classic Boston Housing dataset and implements:
+Linear Regression
+Polynomial Regression
+Gradient Descent Optimization
+Ridge (L2) and Lasso (L1) Regularization
+Elastic Net Regularization
+Early Stopping for model selection and overfitting prevention
